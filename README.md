@@ -1,15 +1,38 @@
 # AndroidNote
 
-## 000-计算机基础
+## 000-前言
 
-### 010-数据结构与算法
+### 010-学海无涯
 
-#### 011-复杂度分析
+#### 011-xxxxx
 
-- 时间复杂度
-- 空间复杂度
+- xxxxx
+- xxxxx
 
-#### 012-数据结构
+#### 012-xxxxx
+
+- xxxxxx
+- xxxxxx
+
+### 020-学无止境
+
+#### 021-xxxxx
+
+- xxxxx
+- xxxxxx
+
+#### 022-xxxxx
+
+- xxxxxx
+- xxxxxx
+
+
+
+## 100-计算机基础
+
+### 110-数据结构与算法
+
+#### 111-数据结构
 
 - 数组
 - 链表
@@ -19,7 +42,9 @@
 - 树
 - 图
 
-#### 013-算法
+#### 112-算法
+
+- 复杂度
 
 - 排序
 - 查找
@@ -29,66 +54,219 @@
 - 回溯
 - 贪心
 
-### 020-计算机网络
+### 120-计算机网络
 
-#### 021-网络模型
+#### 121-网络模型
 
 - OSI七层模型
 - 标准五层模型
 - TCP/IP四层模型
 
-#### 022-应用层
+#### 122-应用层
 
 - HTTP/HTTPS
 
-#### 023-传输层
+#### 123-传输层
 
 - TCP/UDP
 
-#### 024-网络层
+#### 124-网络层
 
 - IP
 
-#### 025-网络接口层
+#### 125-网络接口层
 
-- WIFI
-- 蓝牙
+- xxx
+- xxx
 
-### 030-数据库
+### 130-数据库
 
-### 040-计算机操作系统
+#### 131-xxx
 
-### 050-计算机组成原理
+- xxxxx
+- xxxxx
 
-## 100-编程语言
+#### 132-xxxx
 
-### 110-Java/Kotlin
+- xxxxxx
+- xxxxxx
 
-### 120-C/C++
+### 140-计算机操作系统
 
-### 130-Python
+#### 141-xxxxx
 
-### 140-Dart
+- xxxxx
+- xxxxx
 
-## 200-Android
+#### 142-xxxxx
 
-### 210-界面
+- xxxxxx
+- xxxxxx
 
-### 220-音视频
+### 150-计算机组成原理
 
-### 230-物联网
+#### 151-xxxxxx
 
-### 240-Framework
+- xxxxx
+- xxxxx
 
-### 250-开源库
+#### 152-xxxxxx
 
-### 260-Jetpack
+- xxxxxxx
+- xxxxxx
 
-## 300-项目设计
+## 200-编程语言
 
-### 310-设计模式
+### 210-Java/Kotlin
 
-### 320-Gradle
+- Java基础
+- Java容器
+- Java并发
+- Java虚拟机
+- Kotlin
+
+### 220-C/C++
+
+#### 221-xxxx
+
+- xxxxx
+- xxxxx
+
+#### 222-xxxx
+
+- xxxxx
+- xxxxx
+
+### 230-Python
+
+#### 231-xxxx
+
+- xxxxx
+- xxxxx
+
+#### 232-xxxx
+
+- xxxxx
+- xxxxx
+
+### 240-Dart
+
+#### 241-xxxx
+
+- xxxxx
+- xxxxx
+
+#### 241-xxxx
+
+- xxxxx
+- xxxxx
+
+### 250-Groovy
+
+#### 251-xxxx
+
+- xxxxx
+- xxxxx
+
+#### 252-xxxx
+
+- xxxxx
+- xxxxx
+
+
+
+## 300-Android
+
+### 310-四大组件
+
+#### 311-Activity
+
+- xxxxx
+- xxxxx
+
+#### 312-Service
+
+- xxxxx
+- xxxxx
+
+#### 313-Broadcast
+
+- xxxxx
+- xxxxx
+
+#### 314-ContentProvider
+
+- xxxxx
+- xxxxx
+
+### 320-UI开发
+
+### 330-Jetpack
+
+### 340-开源库
+
+### 350-NDK
+
+### 360-Framework
+
+### 370-音视频
+
+#### 371 采集
+
+- xxxxx
+- xxxxx
+
+#### 372 预处理
+
+- xxxxx
+- xxxxx
+
+#### 373 编码
+
+- xxxxx
+- xxxxx
+
+#### 374 封装
+
+- xxxxx
+- xxxxx
+
+#### 375 传输
+
+- xxxxx
+- xxxxx
+
+#### 376 解封装
+
+- xxxxx
+- xxxxx
+
+#### 377 解码
+
+- xxxxx
+- xxxxx
+
+#### 378 渲染
+
+- xxxxx
+- xxxxx
+
+### 380-物联网
+
+### 390-跨端UI
+
+
+## 400-项目建设
+
+### 410-设计模式
+
+### 420-Gradle
+
+### 430-架构设计
+
+### 440-体验优化
+
+
 
 
 
